@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Paritoshaman
-- 👀 I’m interested in game
-- 🌱 I’m currently learning gaming
-- 💞️ I’m looking to collaborate on unity
-- 📫 How to reach me .
+- 👀 I’m interested in game making
+- 🌱 I’m currently learning game making
+- 💞️ I’m looking to collaborate on a best gaming company
+- 📫 How to reach me ......
+                            Sorry.  !!
 
 <!---
 Paritoshaman/Paritoshaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
